@@ -37,5 +37,6 @@ Final model performance:
 - Matplotlib / Seaborn
 
 ## Author
-Dakshit Singhal
-BSc (Hons) Computer Science
+Dakshit Singhal  
+BSc (Hons) Computer Science  
+University of Manchester
